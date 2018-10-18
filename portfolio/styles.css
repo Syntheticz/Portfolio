@@ -47,9 +47,6 @@ a {
 a:visited {
 	color: black;
 }
-div {
-	border: solid 1px black;
-	display: inline-block;
 }
 
 #par {
